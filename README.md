@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asif Siddiqui
 
-### Java Developer | Spring Boot | Microservices | Full Stack Developer
+### Java Developer | Spring Boot | Microservices
 
 I’m a Java Developer focused on building scalable backend applications, REST APIs,
 and full-stack web applications. I enjoy developing clean, maintainable,
@@ -34,7 +34,7 @@ Spring Data JPA · Hibernate · REST APIs · Microservices
 
 ### 🌐 Frontend
 
-HTML · CSS · JavaScript · React · Bootstrap
+HTML · CSS · JavaScript · Bootstrap
 
 ### 🗄️ Database
 
@@ -46,7 +46,7 @@ Git · GitHub · Maven · Postman · IntelliJ IDEA · VS Code
 
 ---
 
-## 💻 Featured Projects
+## 💻 Projects
 
 ### 🏫 School Management System
 
